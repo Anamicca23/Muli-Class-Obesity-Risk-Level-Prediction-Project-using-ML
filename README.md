@@ -1,6 +1,16 @@
 ## **<span style="color:red">COMPREHENSIVE ANALYSIS AND PREDICTION OF OBESITY RISK LEVELS USING MACHINE LEARNING TECHNIQUES WITH - (100)% ACCURACY</span>**
 **Author**: **Anamika Kumari**
 
+## Introduction:
+<summary><b><span style="color:blue">What is Obesity:</span></b></summary>
+
+<p>Obesity is a complex health condition affecting millions globally, with significant implications for morbidity, mortality, and healthcare costs.Obesity is a global concern, with statistics indicating a significant rise in the number of obese individuals, now accounting for approximately 30% of the global population, triple the figures from 1975. This escalating trend highlights the pressing need to address the multifaceted risks associated with excess weight. Obesity is a major contributor to various health complications, including diabetes, heart disease, osteoarthritis, sleep apnea, strokes, and high blood pressure, thereby significantly reducing life expectancy and increasing mortality rates. Effective prediction of obesity risk is crucial for implementing targeted interventions and promoting public health.</p>
+
+<p>In this project, we undertake a comprehensive analysis to predict obesity risk levels using advanced machine learning techniques.</p>
+
+<img src="https://www.limarp.com/wp-content/uploads/2023/02/obesity-risk-factors.png" alt="Obesity-Risk-Factors" width="1500">
+
+
 
 ## Table of Contents:
 ​
@@ -201,17 +211,7 @@
 </details>
 
 
-# Introduction About Obesity Risk Level Prediction-Project:
-<details>
-<summary><b><span style="color:blue">What is Obesity:</span></b></summary>
-
-<p>Obesity is a complex health condition affecting millions globally, with significant implications for morbidity, mortality, and healthcare costs.Obesity is a global concern, with statistics indicating a significant rise in the number of obese individuals, now accounting for approximately 30% of the global population, triple the figures from 1975. This escalating trend highlights the pressing need to address the multifaceted risks associated with excess weight. Obesity is a major contributor to various health complications, including diabetes, heart disease, osteoarthritis, sleep apnea, strokes, and high blood pressure, thereby significantly reducing life expectancy and increasing mortality rates. Effective prediction of obesity risk is crucial for implementing targeted interventions and promoting public health.</p>
-
-<p>In this project, we undertake a comprehensive analysis to predict obesity risk levels using advanced machine learning techniques.</p>
-
-<img src="https://www.limarp.com/wp-content/uploads/2023/02/obesity-risk-factors.png" alt="Obesity-Risk-Factors" width="1500">
-</details>
-
+# About Obesity Risk Level Prediction-Project:
 <details>
 <summary><b><span style="color:blue">Understanding Obesity and Risk Prediction:</span></b></summary>
 
