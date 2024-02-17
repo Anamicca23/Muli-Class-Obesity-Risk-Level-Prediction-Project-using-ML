@@ -2082,10 +2082,17 @@ This project highlights the effectiveness of ML models in predicting obesity ris
 # <span style="color:blue">It's time to make Submission:</span>
 """
 
-test = pd.concat([test, test_sub['id']], axis=1)
+test_sub = test_sub.dropna(subset=['id'])
+test['id'] = test_sub['id'].astype(int)
+test=test.dropna(subset=['id'])
+test['id'] = test['id'].astype(int)
 submission = test[['id', 'NObeyesdad']]
+
+# Display the first 5 rows of the submission DataFrame
 submission.head(5)
 
-submission.to_csv('/kaggle/working/submission.csv', index = None)
+submission.to_csv('/kaggle/working/submission.csv', index = False)
+submission.shape
+submission.dtypes
 
 """# Thank You!"""
