@@ -1,4 +1,4 @@
-## **<span style="color:red">[COMPREHENSIVE ANALYSIS AND PREDICTION OF OBESITY RISK LEVELS USING MACHINE LEARNING TECHNIQUES WITH - (100)% ACCURACY](https://nbviewer.org/github/Anamicca23/Obesity-Risk-Level-Prediction--Project-using-ML/blob/master/prediction-of-obesity-risk-levels-using-ml%20project-Final.ipynb)</span>**
+## **<span style="color:red">[COMPREHENSIVE ANALYSIS AND PREDICTION OF OBESITY RISK LEVELS USING MACHINE LEARNING TECHNIQUES WITH - (90.99)% ACCURACY](https://nbviewer.org/github/Anamicca23/Obesity-Risk-Level-Prediction--Project-using-ML/blob/master/prediction-of-obesity-risk-levels-using-ml%20project-Final.ipynb)</span>**
 **Author**: **Anamika Kumari**
 
 # Introduction:
@@ -308,7 +308,7 @@ Obesity is a pressing global health concern, with millions affected worldwide an
 
 </details>
 
-Links to access this project's ipynb file, if you are cannot able to see it in github reposetory are [here](https://nbviewer.org/github/Anamicca23/Obesity-Risk-Level-Prediction--Project-using-ML/blob/master/prediction-of-obesity-risk-levels-using-ml%20project-Final.ipynb)
+Links to access this project's ipynb file, if you are cannot able to see it in github reposetory are [here](https://nbviewer.org/github/Anamicca23/Obesity-Risk-Level-Prediction--Project-using-ML/blob/master/prediction-of-obesity-rlevels-using-ml-lightgbm_jupyter%20notebook.ipynb)
 
 ##  🎯 Project Objectives:
 
