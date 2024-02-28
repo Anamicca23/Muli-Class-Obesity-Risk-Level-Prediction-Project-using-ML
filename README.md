@@ -308,7 +308,7 @@ Obesity is a pressing global health concern, with millions affected worldwide an
 
 </details>
 
-Links to access this project's ipynb file, if you are cannot able to see it in github reposetory are [here](https://nbviewer.org/github/Anamicca23/Obesity-Risk-Level-Prediction--Project-using-ML/blob/master/prediction-of-obesity-risk-levels-using-ml%20project-Final.ipynb)
+Links to access this project's ipynb file, if you are cannot able to see it in github reposetory are [here](https://nbviewer.org/github/Anamicca23/Obesity-Risk-Level-Prediction--Project-using-ML/blob/master/prediction-of-obesity-rlevels-using-ml-lightgbm_jupyter%20notebook.ipynb)
 
 ##  🎯 Project Objectives:
 
