@@ -568,7 +568,19 @@ To set up the environment for this project, follow these steps:
 
 
 # Outcome and Analysis:
+ **Model Evaluation Matrix:**
+![Model Evaluation Matrix](https://github.com/Anamicca23/Obesity-Risk-Level-Prediction--Project-using-ML/assets/99593529/a924cce4-7d30-4690-9296-b24c74f69771)
 
-Through our comprehensive analysis and predictive modeling efforts, we aim to achieve accurate classification of individuals into different obesity risk categories. This outcome will enable healthcare professionals to identify high-risk individuals, tailor interventions, and allocate resources effectively. Furthermore, our insights into the factors influencing obesity risk will inform public health policies and initiatives aimed at prevention and management. By leveraging data-driven approaches and advanced machine learning techniques, we aspire to make significant strides towards combating the global obesity epidemic and promoting healthier communities.
+ **Best Model Performanace for Obesity Risk-Level Prediction:**
+![best Model](https://github.com/Anamicca23/Obesity-Risk-Level-Prediction--Project-using-ML/assets/99593529/bf08169e-1edc-434a-8cb6-8bb982ad29f1)
+
+**Result:**
+  -  Based on the evaluation metrics, the models performed quite similarly, with minor differences in accuracy, precision, recall, and F1-score. The XGBoost model achieved an accuracy of approximately 90.87%, followed closely by LightGBM with an accuracy of approximately 90.99%. CatBoost achieved an accuracy of approximately 90.56%. The ensemble model, which combines predictions from XGBoost and LightGBM, achieved an accuracy of approximately 90.80%.
+
+Considering the performance metrics and confusion matrices, LightGBM appears to have a slight edge over the other models in terms of accuracy and F1-score, with similar performance in precision and recall. However, the differences in performance among the models are relatively small, indicating that they are all capable of producing reliable predictions.
+
+Therefore, based on the evaluation results, LightGBM seems to be the best model for making predictions on Obesity Risk Level Prediction.
+
+  - Through our comprehensive analysis and predictive modeling efforts, we aim to achieve accurate classification of individuals into different obesity risk categories. This outcome will enable healthcare professionals to identify high-risk individuals, tailor interventions, and allocate resources effectively. Furthermore, our insights into the factors influencing obesity risk will inform public health policies and initiatives aimed at prevention and management. By leveraging data-driven approaches and advanced machine learning techniques, we aspire to make significant strides towards combating the global obesity epidemic and promoting healthier communities.
 
 Enjoy Project!
