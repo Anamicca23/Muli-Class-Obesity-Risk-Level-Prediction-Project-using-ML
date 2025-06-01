@@ -1,13 +1,15 @@
-<h1 align="center">OBESITY RISK LEVEL PREDICTION</h1>
+<h1 align="center">🧠 Multi-Class Obesity Risk Level Prediction</h1>
+
+<p align="center"><em>🚑 Predicting health outcomes with cutting-edge Machine Learning — <strong>90.99% Accuracy</strong></em></p>
+
 
 <p align="center">
-  <em>Comprehensive analysis and prediction of obesity risk levels using machine learning — 90.99% accuracy</em>
-</p>
-
-<p align="center">
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/yourusername/obesity-risk-prediction?label=last%20commit&style=for-the-badge&color=grey" />
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Anamicca23/Muli-Class-Obesity-Risk-Level-Prediction-Project-using-ML?label=last%20commit&style=for-the-badge&color=blue" />
   <img alt="Accuracy" src="https://img.shields.io/badge/accuracy-90.99%25-brightgreen?style=for-the-badge" />
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/yourusername/obesity-risk-prediction?style=for-the-badge&color=blue" />
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/Anamicca23/Muli-Class-Obesity-Risk-Level-Prediction-Project-using-ML?style=for-the-badge&color=blue" />
+</p>
+<p align="center">
+  🔍 A data-driven healthcare project to classify individuals into obesity risk levels using lifestyle patterns, clinical attributes, and behavior-driven insights.
 </p>
 
 <p align="center">
@@ -54,7 +56,7 @@ Obesity is a pressing global health concern, with millions affected worldwide an
 - **Model Evaluation:** 
     - We will evaluate the performance of our models using various metrics such as accuracy, precision, recall, F1-score, and area under the ROC curve (AUC-ROC). 
     - We will also conduct sensitivity analysis and interpretability assessments to understand the factors driving predictions and identify areas for improvement.
-    - 
+  
 
 <img src="https://www.limarp.com/wp-content/uploads/2023/02/obesity-risk-factors.png" alt="Obesity-Risk-Factors" width="1500">
 
