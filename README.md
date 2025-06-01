@@ -370,20 +370,39 @@ Links to access this project's ipynb file, if you are cannot able to see it in g
 - **Passion for Data Science**: Genuine interest in data science and public health projects.
 
 
-
-
-## 🗂️ Project Structure
-
-```bash
-obesity-risk-prediction/
-├── data/
-│   └── obesity.csv
-├── notebooks/
-│   └── Obesity_Risk_Prediction.ipynb
-├── results/
-│   └── model_outputs/
-├── requirements.txt
-└── README.md
+## Project Structure:
+```
+obesity-risk-prediction-ml/
+│
+├── 📂 notebooks/                     # Jupyter notebooks for exploratory analysis and modeling
+│   ├── prediction_lightgbm.ipynb    # Final notebook with LightGBM model
+│   └── model_development.ipynb      # Step-by-step model building & evaluation
+│
+├── 📂 scripts/                       # Python scripts for modular code and reproducibility
+│   └── prediction_pipeline.py       # End-to-end prediction pipeline using LightGBM
+│
+├── 📂 data/                          # Raw and processed datasets
+│   ├── raw/                         # Unprocessed original data
+│   │   └── obesity_data.csv         
+│   └── processed/                   # Cleaned & feature-engineered data
+│       └── obesity_data_cleaned.csv
+│
+├── 📂 outputs/                       # Generated results and predictions
+│   ├── submission.csv               # Sample submission or predictions output
+│   └── metrics/                     # Evaluation results, confusion matrices, etc.
+│       └── model_evaluation.json
+│
+├── 📂 reports/                       # PDFs and static documentation
+│   ├── PREDICTION_OBESITY_ML.pdf    # Project summary report
+│   └── presentation_slides.pdf      # Optional: visual slides for presentation
+│
+├── 📂 utils/                         # Utility scripts (feature engineering, visualizations, etc.)
+│   └── preprocessing.py             # Functions for preprocessing and feature encoding
+│
+├── 📄 README.md                      # Project overview, setup instructions, objectives, etc.
+├── 📄 requirements.txt               # Python dependencies and installation list
+├── 📄 .gitignore                     # Files/folders to ignore in version control
+└── 📄 LICENSE                        # Optional: license for open-source projects
 ```
 
 ## Industry Relevance:
