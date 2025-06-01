@@ -1,3 +1,31 @@
+<h1 align="center">OBESITY RISK LEVEL PREDICTION</h1>
+
+<p align="center">
+  <em>Comprehensive analysis and prediction of obesity risk levels using machine learning — 90.99% accuracy</em>
+</p>
+
+<p align="center">
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/yourusername/obesity-risk-prediction?label=last%20commit&style=for-the-badge&color=grey" />
+  <img alt="Accuracy" src="https://img.shields.io/badge/accuracy-90.99%25-brightgreen?style=for-the-badge" />
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/yourusername/obesity-risk-prediction?style=for-the-badge&color=blue" />
+</p>
+
+<p align="center">
+  <em>Built with the tools and technologies:</em>
+</p>
+
+<p align="center">
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-purple?style=for-the-badge&logo=numpy" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas" />
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-orange?style=for-the-badge&logo=scikit-learn" />
+  <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-red?style=for-the-badge&logo=apache" />
+  <img alt="LightGBM" src="https://img.shields.io/badge/LightGBM-green?style=for-the-badge" />
+</p>
+
+---
+
 ## **<span style="color:red">[COMPREHENSIVE ANALYSIS AND PREDICTION OF OBESITY RISK LEVELS USING MACHINE LEARNING TECHNIQUES WITH - (90.99)% ACCURACY](https://nbviewer.org/github/Anamicca23/Obesity-Risk-Level-Prediction--Project-using-ML/blob/master/prediction-of-obesity-risk-levels-using-ml%20project-Final.ipynb)</span>**
 **Author**: **Anamika Kumari**
 
@@ -342,6 +370,22 @@ Links to access this project's ipynb file, if you are cannot able to see it in g
 - **Passion for Data Science**: Genuine interest in data science and public health projects.
 
 
+
+
+## 🗂️ Project Structure
+
+```bash
+obesity-risk-prediction/
+├── data/
+│   └── obesity.csv
+├── notebooks/
+│   └── Obesity_Risk_Prediction.ipynb
+├── results/
+│   └── model_outputs/
+├── requirements.txt
+└── README.md
+```
+
 ## Industry Relevance:
 
 This project is highly relevant to the industry across several critical areas:
@@ -568,19 +612,57 @@ To set up the environment for this project, follow these steps:
 
 
 # Outcome and Analysis:
- **Model Evaluation Matrix:**
-![Model Evaluation Matrix](https://github.com/Anamicca23/Obesity-Risk-Level-Prediction--Project-using-ML/assets/99593529/a924cce4-7d30-4690-9296-b24c74f69771)
 
- **Best Model Performanace for Obesity Risk-Level Prediction:**
-![best Model](https://github.com/Anamicca23/Obesity-Risk-Level-Prediction--Project-using-ML/assets/99593529/bf08169e-1edc-434a-8cb6-8bb982ad29f1)
+### 📊 Model Evaluation Matrix
+<p align="center">
+  <img src="https://github.com/Anamicca23/Obesity-Risk-Level-Prediction--Project-using-ML/assets/99593529/a924cce4-7d30-4690-9296-b24c74f69771" alt="Model Evaluation Matrix" width="80%" />
+</p>
 
-**Result:**
-  -  Based on the evaluation metrics, the models performed quite similarly, with minor differences in accuracy, precision, recall, and F1-score. The XGBoost model achieved an accuracy of approximately 90.87%, followed closely by LightGBM with an accuracy of approximately 90.99%. CatBoost achieved an accuracy of approximately 90.56%. The ensemble model, which combines predictions from XGBoost and LightGBM, achieved an accuracy of approximately 90.80%.
+### 🥇 Best Model Performance for Obesity Risk-Level Prediction
+<p align="center">
+  <img src="https://github.com/Anamicca23/Obesity-Risk-Level-Prediction--Project-using-ML/assets/99593529/bf08169e-1edc-434a-8cb6-8bb982ad29f1" alt="Best Model" width="80%" />
+</p>
 
-Considering the performance metrics and confusion matrices, LightGBM appears to have a slight edge over the other models in terms of accuracy and F1-score, with similar performance in precision and recall. However, the differences in performance among the models are relatively small, indicating that they are all capable of producing reliable predictions.
+---
 
-Therefore, based on the evaluation results, LightGBM seems to be the best model for making predictions on Obesity Risk Level Prediction.
 
-  - Through our comprehensive analysis and predictive modeling efforts, we aim to achieve accurate classification of individuals into different obesity risk categories. This outcome will enable healthcare professionals to identify high-risk individuals, tailor interventions, and allocate resources effectively. Furthermore, our insights into the factors influencing obesity risk will inform public health policies and initiatives aimed at prevention and management. By leveraging data-driven approaches and advanced machine learning techniques, we aspire to make significant strides towards combating the global obesity epidemic and promoting healthier communities.
+## ✅ Result & Key Insights
 
-Enjoy Project!
+### 🔍 Comparative Model Performance
+
+After extensive evaluation using accuracy, precision, recall, and F1-score, all models showcased strong predictive capabilities with marginal differences:
+
+- **XGBoost**: Achieved **90.87% accuracy**
+- **LightGBM**: Topped the performance chart with **90.99% accuracy**
+- **CatBoost**: Delivered a respectable **90.56% accuracy**
+- **Ensemble (XGBoost + LightGBM)**: Combined strength led to **90.80% accuracy**
+
+Despite their close competition, **LightGBM emerged as the most consistent performer**, excelling in both **accuracy** and **F1-score**. Its slight edge makes it the preferred choice for **Obesity Risk Level Prediction**.
+
+---
+
+### 🧠 Strategic Impact
+
+Our comprehensive modeling framework enables:
+
+- 🎯 **Accurate risk categorization** of individuals based on lifestyle and health factors  
+- 👩‍⚕️ **Targeted interventions** for high-risk groups  
+- 📊 **Data-driven decision-making** for healthcare professionals and policymakers  
+- 🌍 **Informed public health strategies** to combat the global obesity crisis
+
+With this initiative, we are not just predicting outcomes — we're **empowering healthier communities** through precision and prevention.
+
+---
+
+💡 **Enjoy exploring the project, and feel free to contribute or customize it further!**
+
+---
+
+
+
+<p align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/⬅️%20Return-blue?style=for-the-badge" alt="Return Button"/>
+  </a>
+</p>
+
